@@ -1,2 +1,2 @@
 # Jenkins-code
-Basic script to build Declarative pipelines in Jenkins
+script to build Declarative and scriped pipelines in Jenkins
